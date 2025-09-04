@@ -21,5 +21,5 @@ This project involves tokenizing input text, generating sequences, padding seque
 ## Installation
 Ensure you have TensorFlow installed. \
 Clone the repository:
-`git clone https://github.com/your_username/reo_name`
+`git clone https://github.com/your_username/reo_name` \
 Open the Jupyter Notebook notebook.ipynb to view the code.
